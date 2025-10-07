@@ -88,7 +88,7 @@ FTP         | Data storage
 ### Devices:
 * 1 x Cisco 2911 Router 
 * 1 x Layer 2 Switch
-* 3 X PCs
+* 3 x PCs
 * 1 x Wireless Router
 * 1 x Access Point
 * 1 x Tablet (Cash Register)
