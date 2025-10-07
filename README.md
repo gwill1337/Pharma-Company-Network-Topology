@@ -22,8 +22,8 @@ The main branch also includes a Cisco ASA firewall.
 5. **CDP Disable** - CDP can expose device information that may be exploited for ARP spoofing or network mapping, so it’s disabled for security.
 
 ## Main branch
-![ISP Topology](https://github.com/gwill1337/Pharma-Company-Network-Topology/blob/main/Images/Main_Branch.png?raw=true)
 ### Topology
+![ISP Topology](https://github.com/gwill1337/Pharma-Company-Network-Topology/blob/main/Images/Main_Branch.png?raw=true)
 ### Devices:
 * 1 x Cisco 4331 Router 
 * 1 x Layer 3 Switch
@@ -54,8 +54,8 @@ AAA         | Authentication (TACACS+)
 LAB-FTP     | Local FTP for laboratory
 
 ## Second branch
-![ISP Topology](https://github.com/gwill1337/Pharma-Company-Network-Topology/blob/main/Images/Second_Branch.png?raw=true)
 ### Topology
+![ISP Topology](https://github.com/gwill1337/Pharma-Company-Network-Topology/blob/main/Images/Second_Branch.png?raw=true)
 ### Devices:
 * 1 x Cisco 4331 Router 
 * 1 x Layer 3 Switch
@@ -83,8 +83,8 @@ FTP         | Data storage
 
 
 ## Pharmacy
-![ISP Topology](https://github.com/gwill1337/Pharma-Company-Network-Topology/blob/main/Images/Pharmacy.png?raw=true)
 ### Topology
+![ISP Topology](https://github.com/gwill1337/Pharma-Company-Network-Topology/blob/main/Images/Pharmacy.png?raw=true)
 ### Devices:
 * 1 x Cisco 2911 Router 
 * 1 x Layer 2 Switch
